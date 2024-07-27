@@ -1,0 +1,166 @@
+body {
+  margin: 0 auto;
+  background-image: url(image/magicpattern-oPH_5xuMgQw-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 2000px;
+}
+
+.container img {
+  width: 150px;
+  height: 150px;
+  margin-top: -60px;
+  border-radius: 40px;
+}
+
+h4 {
+  margin-top: -0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  font-size: 38px;
+  color: #b64b4b;
+}
+
+.button {
+  padding: 15px 30px;
+  border: none;
+  background-color: #df390f;
+  color: #fff;
+  margin-right: 49px;
+  margin-left: 49px;
+  border-radius: 80px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+h2 {
+  margin-top: 100px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  font-size: 35px;
+  color: #609;
+  margin-bottom: 100px;
+}
+
+.form {
+  width: 30%;
+  padding: 10px 10px;
+  margin: 0px 0;
+  box-sizing: border-box;
+  margin-left: 530px;
+}
+
+.deptform {
+  width: 40%;
+  padding: 12px 5px;
+  margin: 0px 0;
+  box-sizing: border-box;
+}
+
+.button1 {
+  padding: 15px 30px;
+  border: none;
+  background-color: #df390f;
+  color: #fff;
+  margin-right: 49px;
+  margin-left: 49px;
+  border-radius: 80px;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+.addlabel {
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-right: 520px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+}
+
+h1 {
+  margin-top: 10px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  font-size: 35px;
+  color: #609;
+  margin-bottom: 10px;
+}
+
+.addlabel1 {
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-right: 500px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+}
+
+.addlabel2 {
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-right: 520px;
+  padding-left: 530px;
+  padding-bottom: 0px;
+}
+
+.buttonemp {
+  padding: 15px 30px;
+  border: none;
+  background-color: #df390f;
+  color: #fff;
+  margin-right: 49px;
+  margin-left: 700px;
+  border-radius: 80px;
+  text-align: center;
+}
+
+.logoutLblPos {
+  position: fixed;
+  right: 10px;
+  top: 20px;
+  background-color: #ff1111;
+  color: #fff;
+  border-radius: 80px;
+  padding: 10px 10px;
+  border: none;
+}
+
+.logoutLblPos1 {
+  position: fixed;
+  right: 110px;
+  top: 20px;
+  background-color: #ff1111;
+  color: #fff;
+  border-radius: 80px;
+  padding: 10px 10px;
+  border: none;
+}
+
+.addlabel1 {
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-right: 500px;
+  padding-left: 320px;
+  padding-bottom: 0px;
+}
+
+.deptform {
+  width: 40%;
+  margin: 0px 0;
+  box-sizing: border-box;
+}
+
+.logoutLbPos2 {
+  position: fixed;
+  right: 210px;
+  top: 20px;
+  background-color: #ff1111;
+  color: #fff;
+  border-radius: 80px;
+  padding: 10px 10px;
+  border: none;
+}

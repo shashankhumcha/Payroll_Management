@@ -1,0 +1,4 @@
+<label for="Year">Year</label>
+        <input type="number" id="Year" name="Year" value="Year" maxlength="5"><br><br>
+<label for="Month">Month</label>
+        <input type="text" id="Month" name="Month" value="Month" maxlength="10"><br><br>

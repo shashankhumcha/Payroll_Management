@@ -1,0 +1,141 @@
+body{
+	margin: 0 auto;
+    background-image: url(image/magicpattern-oPH_5xuMgQw-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 900px;
+}
+
+.container{
+	width: 500px;
+	height: 513px;
+	text-align: center;
+	margin: 0 auto;
+	background-color: rgba(39, 57, 57, 0.222);
+	margin-top: 160px;
+	border-radius: 40px 0px;
+}
+
+.container img{
+	width: 150px;
+	height: 150px;
+	margin-top: -60px;
+	border-radius: 40px;
+}
+
+.form-input::before{
+	content: "\f007";
+	font-family: "FontAwesome";
+	padding-left: 20px;
+	padding-top: 43px;
+	position: absolute;
+	font-size: 27px;
+	color: #04e45d; 
+}
+
+.form-input:nth-child(2)::before{
+	content: "\f023";
+}
+
+.btn-login{
+	border-radius:80px;
+	padding: 17px 20px;
+	border: none;
+	background-color: #df390f;
+	color: #fff;
+}
+a.\.href-user {
+    border-radius: 80px;
+    padding: 15px 25px;
+    padding-top: 15px;
+    padding-right: 25px;
+    padding-bottom: 15px;
+    padding-left: 2px;
+    border: none;
+    background-color: #21151500;
+    color: #fff;
+}
+h5{
+	margin-top: 100px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-left: 500px;
+    padding-bottom: 0px;
+    font-size: 35px;
+    color: #609;
+    margin-bottom: 100px;
+}
+
+.button {
+	padding: 15px 30px;
+    border: none;
+    background-color: #df390f;
+    color: #fff;
+    margin-right: 49px;
+    margin-left: 49px;
+    border-radius: 80px;
+  }
+  .admin-login{
+    width: 40%;
+    padding: 18px 30px;
+    border: none;
+    background-color: #df390f;
+    color: #fff;
+    margin-right: 49px;
+    margin-left: 3px;
+    border-radius: 80px;
+  }
+.logoutLblPos{
+    position: fixed;
+    right: 10px;
+    top: 20px;
+    background-color: #ff1111;
+    color: #fff;
+    border-radius: 80px;
+    padding: 10px 10px;
+    border:none;
+ }
+ .addlabel11{
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-right: 520px;
+    padding-left: 540px;
+    padding-bottom: 0px;
+  }
+  .deptform1{
+    width: 30%;
+    padding: 10px 10px;
+    margin: 0px 0;
+    box-sizing: border-box;
+    margin-left: 530px;
+}
+.button {
+	padding: 15px 30px;
+    border: none;
+    background-color: #df390f;
+    color: #fff;
+    margin-right: 49px;
+    margin-left: 700px;
+    border-radius: 80px;
+    text-align: center;
+	}
+  .button1 {
+    padding: 15px 30px;
+    border: none;
+    background-color: #df390f;
+    color: #fff;
+    margin-right: 0px;
+    margin-left: 420px;
+    border-radius: 80px;
+    width:40%;
+    }
+    h6{
+      margin-top: 100px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    font-size: 35px;
+    color: #609;
+    margin-bottom: 100px;;
+    }
+    
